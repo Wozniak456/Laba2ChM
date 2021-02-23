@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba2ChM", "Laba2ChM\Laba2ChM.csproj", "{0614FB98-F712-4B31-8553-A73103F120EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryLaba2ChM", "ClassLibraryLaba2ChM\ClassLibraryLaba2ChM.csproj", "{8965DB17-AB6C-4037-AA9F-5A57FCC1DC11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0614FB98-F712-4B31-8553-A73103F120EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0614FB98-F712-4B31-8553-A73103F120EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0614FB98-F712-4B31-8553-A73103F120EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0614FB98-F712-4B31-8553-A73103F120EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8965DB17-AB6C-4037-AA9F-5A57FCC1DC11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8965DB17-AB6C-4037-AA9F-5A57FCC1DC11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8965DB17-AB6C-4037-AA9F-5A57FCC1DC11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8965DB17-AB6C-4037-AA9F-5A57FCC1DC11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57535FB9-24B1-4620-8654-B1992D80D6C1}
+	EndGlobalSection
+EndGlobal
